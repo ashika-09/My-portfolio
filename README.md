@@ -25,7 +25,7 @@
 `npm install`
 
 3. **Start the development server:**
-npm start
+`npm start`
 
 ## 🚢 Deployment
 `"homepage": "https://yourusername.github.io"`
