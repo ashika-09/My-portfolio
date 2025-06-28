@@ -21,17 +21,17 @@
    git clone https://github.com/ashika-09/My-portfolio
    cd Myportfolio
 
-## Install dependencies:
+2. **Install dependencies:**
 npm install
 
-## Start the development server:
+3. **Start the development server:**
 npm start
 
 ## 🚢 Deployment
 "homepage": "https://yourusername.github.io"
 
-# Build the project:
+ **Build the project:**
 npm build
 
-# Deploy to GitHub Pages:
+**Deploy to GitHub Pages:**
 npm run deploy
