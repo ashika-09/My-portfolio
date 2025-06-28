@@ -22,16 +22,16 @@
    cd Myportfolio
 
 2. **Install dependencies:**
-npm install
+`npm install`
 
 3. **Start the development server:**
 npm start
 
 ## 🚢 Deployment
-"homepage": "https://yourusername.github.io"
+`"homepage": "https://yourusername.github.io"`
 
  **Build the project:**
-npm build
+`npm build`
 
 **Deploy to GitHub Pages:**
-npm run deploy
+`npm run deploy`
